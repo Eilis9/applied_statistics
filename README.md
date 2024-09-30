@@ -16,7 +16,7 @@ Software Used:
  </p>
 
 
-The tasks for the module are in the workbook tasks.ipynb. All commentary and references are given in this Jupyter Notebook. 
+The tasks for the module are in the workbook tasks.ipynb and the project is in project.ipynb. All commentary and references are given in this Jupyter Notebook. 
 
 How to run:
 
