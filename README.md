@@ -1,4 +1,4 @@
-<h1><img align="right" width="350" src="img/ATU-Logo-Full-RGB-Green.jpg"> Applied Statistics - Module Tasks
+<h1><img align="right" width="350" src="img/ATU-Logo-Full-RGB-Green.jpg"> Applied Statistics
 </h1>
 <p> 
 Course: HDip in Computing in Data Analytics <br>
