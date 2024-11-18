@@ -23,4 +23,6 @@ How to run:
 The Jupyter Notebooks should be downloaded along with the /img  folder and run locally in Jupyter notebook version 6.5.2 [hold]. 
  - - -
 
+ Tasks 
+
 
