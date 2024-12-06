@@ -1,17 +1,21 @@
-<h1><img align="right" width="350" src="img/ATU-Logo-Full-RGB-Green.jpg"> Applied Statistics
-</h1>
-<p> 
-Course: HDip in Computing in Data Analytics <br>
-Module: Applied Statistics <br>
+# Applied Statistics Module 
+
+## Repository Description
+
+This repository contains the tasks and project for the Applied Statistics module of the Higher Diploma in Computing in Data Analytics at GMIT. <br>
+
 Lecturer: Ian McLoughlin <br>
-
-This repository contains the module tasks and project submitted for othe Applied Statistics module. Task and project descriptions are given below. <br>
-
 Student: Eilis Donohue (G00006088)
 
-**Software Used:** 
+### Software and Packages Used
+
  - Python v3.12.7 
- - Jupyter Notebook 7.2.2  
+ - Jupyter Notebook 7.2.2 
+ - Numpy v1.21.2
+ - Scipy v1.7.3
+ - Matplotlib v3.4.3
+ - Pandas v1.3.3
+
  - Full list of all packages are given in the [requirements.txt](requirements.txt) file.
  </p>
 
@@ -19,7 +23,19 @@ Student: Eilis Donohue (G00006088)
 The tasks for the module are in the workbook [tasks.ipynb](tasks.ipynb) and the project is in [project.ipynb](project.ipynb). <br> 
 All commentary and references are given in the respective Jupyter Notebooks. 
 
-**How to run:**
+### How to get started with this repository
+
+Local download:
+1. Download the repository from GitHub by clicking on the green "Code" button and selecting "Download ZIP".
+2. Extract the files to a location on your computer.
+3. Open the Jupyter Notebook by typing `jupyter notebook` in the command line.
+
+Codespace:
+1. Click on the green "Code" button and select "Open with Codespaces".
+2. The repository will open in a Codespace in your browser.
+3. Open the Jupyter Notebook by clicking on the file name in the file list.
+
+### How to run the Jupyter Notebooks
 
 The Jupyter Notebooks should be downloaded along with the /img and /data  folders and run locally in Jupyter notebook version 7.2.2. 
 The [requirements.txt](requirements.txt) file lists the required packages to run the Jupyter Notebooks.
@@ -81,11 +97,7 @@ Now use a loop to perform the following test 10,000 times.
 Summarize and explain your results.
 
 
-## Project (40%)
-
-Complete the project in a single notebook called `project.ipynb` in your repository.
-The same style should be used as detailed above: explanations in MarkDown and code comments, clean code, and regular commits.
-Use plots as appropriate.
+## Project
 
 In this project, you will analyze the [PlantGrowth R dataset](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/PlantGrowth.csv).
 You will find [a short description](https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html) of it on [Vicent Arel-Bundock's Rdatasets page](https://vincentarelbundock.github.io/Rdatasets/).
