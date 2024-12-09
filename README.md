@@ -8,14 +8,13 @@ This repository contains the assessment for the Applied Statistics Module as par
 ## Repository Contents
 Two Jupyter Notebooks which contain the assessment material:
   + tasks.ipynb
-  + project.ipynb
+  + project.ipynb <br>
 All commentary, task/project descriptions and references are included in the Notebooks.
 
 
 Other files in the repository include: 
   + requirements.txt
   + /data
-  + /img
 
 ## Getting Started
 
@@ -73,5 +72,5 @@ In the event of any issues, please contact the repository owner. All feedback an
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions for improvement or find any issues, please make contact via the repository. [HOLD]
+Contributions are welcome! If you have any suggestions for improvement or find any issues, please make contact via the details on the repository.
 
